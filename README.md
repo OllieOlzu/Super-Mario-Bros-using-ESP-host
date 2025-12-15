@@ -1,5 +1,7 @@
 # Super-Mario-Bros-using-ESP-host
-A simple way to host websites on a ESP, this example is super mario bros
+A simple way to host websites on a ESP, this example is super mario bros. Thanks to Play Mario, for making this possible. You can find them here:
+
+https://github.com/PlayMario/HTML5_Client
 
 # How to use:
 
@@ -81,11 +83,21 @@ Completed upload.
 
 ## 9: Reset the ESP using the reset button
 
-## 10: Done! On any seperate device that has arrow keys so you can play, connect to the "ESP Mario!" Network (There shouldnt be a password) and go to: 
+## 10: Done! 
+
+On any seperate device that has arrow keys so you can play, connect to the "ESP Mario!" Network (There shouldnt be a password) and go to:
 
     192.168.4.1
 
 You should see:
+
+<img width="1908" height="722" alt="image" src="https://github.com/user-attachments/assets/b606dd3c-8f34-4e67-a064-930441483f1c" />
+
+# Notes:
+
+Sounds were too big to fit on my ESP
+
+
 
     
 
